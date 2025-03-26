@@ -1,1 +1,3 @@
-this my first git project
+# git-demo
+this my first git repository
+Author-Tarun swamy
